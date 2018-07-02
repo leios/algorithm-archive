@@ -23,6 +23,7 @@
 * [Convolutions](chapters/convolutions/convolutions.md)
 * [Taylor Series](chapters/taylor/taylor_series.md)
 * [Sorting and Searching](chapters/sorting_searching/sorting_searching.md)
+    * [Merge Sort](chapters/sorting_searching/merge/merge_sort.md)
     * [Bubble Sort](chapters/sorting_searching/bubble/bubble_sort.md)
     * [Bogo Sort](chapters/sorting_searching/bogo/bogo_sort.md)
 * [Tree Traversal](chapters/tree_traversal/tree_traversal.md)
