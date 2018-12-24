@@ -65,11 +65,24 @@ In code, it looks something like this:
 [import:10-14, lang:"crystal"](code/crystal/bogo.cr)
 {% sample lang="r" %}
 [import:1-6, lang:"r"](code/r/bogo_sort.r)
+{% sample lang="pde" %}
+[import:55-59, lang:"java"](code/processing/bogoSort.pde)
 {% endmethod %}
 
 That's it.
 Ship it!
 We are done here!
+
+Here's a visual representation of what's happening:
+
+<p>
+    <img  class="center" src="res/bogo.gif" width="500" />
+</p>
+
+
+You can check out the code for this visualization by changing the language to `Processing`.
+Here, we see that the array shuffles about at random until it eventually finds the correct result.
+Obviously, bogo sort is almost impossible with a large array.
 
 ## Example Code
 
@@ -109,6 +122,7 @@ We are done here!
 [import, lang:"nim"](code/nim/bogo_sort.nim)
 {% sample lang="ruby" %}
 [import, lang:"ruby"](code/ruby/bogo.rb)
+<<<<<<< HEAD
 {% sample lang="emojic" %}
 [import, lang:"emojicode"](code/emojicode/bogo_sort.emojic)
 {% sample lang="factor" %}
@@ -129,8 +143,9 @@ We are done here!
 [import, lang:"crystal"](code/crystal/bogo.cr)
 {% sample lang="r" %}
 [import, lang:"r"](code/r/bogo_sort.r)
+{% sample lang="pde" %}
+[import:1-53, lang:"java"](code/processing/bogoSort.pde)
 {% endmethod %}
-
 
 <script>
 MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
