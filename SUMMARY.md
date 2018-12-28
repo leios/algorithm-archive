@@ -12,6 +12,7 @@
     * [Complexity Notation](contents/notation/notation.md)
     * [Bit Logic](contents/bitlogic/bitlogic.md)
     * [Taylor Series](contents/taylor_series_expansion/taylor_series_expansion.md)
+    * [Fourier Transforms](contents/fourier_transform/fourier_transform.md)
 * [Sorting and Searching](contents/sorting_and_searching/sorting_and_searching.md)
     * [Bubble Sort](contents/bubble_sort/bubble_sort.md)
     * [Bogo Sort](contents/bogo_sort/bogo_sort.md)
