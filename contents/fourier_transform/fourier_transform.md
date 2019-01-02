@@ -19,10 +19,12 @@ If we take a sum sinusoidal functions (like $$\sin(\omega t)$$ or $$\cos(\omega 
 Each constituent wave can be described by only one value: $$\omega$$.
 So, instead of representing these curves as seen above, we could instead describe them as peaks in frequency space, as shown below.
 
-<p>
-    <img  class="center" src="res/time_out.gif" width="500" />
-    <img  class="center" src="res/freq_out.gif" width="500" />
-</p>
+<div style="text-align:center">
+<video width="600" height="800" autoplay controls loop>
+  <source src="res/FT_plot.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
+</div>
 
 This is what the Fourier Transform does!
 After performing the transform, it is now much, much easier to understand precisely which frequencies are in our waveform, which is essential to most areas of signal processing.
