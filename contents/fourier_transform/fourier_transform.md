@@ -20,7 +20,7 @@ Each constituent wave can be described by only one value: $$\omega$$.
 So, instead of representing these curves as seen above, we could instead describe them as peaks in frequency space, as shown below.
 
 <div style="text-align:center">
-<video width="600" height="800" autoplay controls loop>
+<video width="600" height="800" controls loop>
   <source src="res/FT_plot.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
