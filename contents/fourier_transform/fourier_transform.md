@@ -50,6 +50,11 @@ Truth be told, I didn't understand it fully until I discretized real and frequen
 
 ### What is a Discrete Fourier Transform?
 
+TODO:
+1. Image of input -> op -> output
+2. Image of op as a bunch of sinusoids
+3. Animation for centering on fourier op
+
 In principle, the Discrete Fourier Transform (DFT) is simply the Fourier transform with summations instead of integrals:
 
 $$X_k = \sum_{n=0}^{N-1} x_n \cdot e^{-2 \pi i k n / N}$$
